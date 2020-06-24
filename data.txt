@@ -1,3 +1,5 @@
 Name: Gunner Andersen
 Age: 27
 Favorite Color: Blue
+Sex: Male
+Size: 180cm
